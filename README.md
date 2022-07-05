@@ -1,4 +1,4 @@
-# Node.js - Ports & Adapters boilerplate
+# Node.js - Ports & Adapters
 
 > Node.js, TypeScript, fp-ts
 
